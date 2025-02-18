@@ -1,6 +1,3 @@
-//Ethan Wight
-//Feb 20, 2025
-//CMSC 270 Complex Lab
 
 #include <iostream>
 
